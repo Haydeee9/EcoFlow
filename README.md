@@ -1,5 +1,5 @@
 # EcoFlow
-mkdir flood-alarm-system && cd flood-alarm-system
+ flood-alarm-system
 flood-alarm-system/
 ├── index.html
 ├── style.css
@@ -34,8 +34,7 @@ flood-alarm-system/
   <!-- Educational Content -->
   <section id="education">
     <h2>Flood Education</h2>
-    <p>Floods are caused by heavy rain, poor drainage, and rising sea levels.</p>
-    <ul>
+    Flooding is a serious environmental event caused by excessive rainfall, poor drainage, rising sea levels, or overflowing rivers. Understanding the different levels of flooding helps individuals and communities take the right steps to protect lives and property.
       <li>Build flood barriers</li>
       <li>Clear drainage systems</li>
       <li>Stay informed through weather alerts</li>
